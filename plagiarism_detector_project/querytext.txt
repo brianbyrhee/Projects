@@ -1,0 +1,1 @@
+If you do not want to input your text through Flask framework, you can add your query text here!
